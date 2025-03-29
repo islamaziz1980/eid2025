@@ -410,7 +410,7 @@ html, body {
 	html, body, untitled__shutters {height:  932px!important; min-height: 932px!important;  overflow: hidden !important;position:fixed;}
 }
 @media (max-width: 428px){
-	html, body, untitled__shutters {height:  700px!important; min-height: 700px!important;  overflow: hidden !important;position:fixed;}
+	html, body, untitled__shutters {height:  720px!important; min-height: 720px!important;  overflow: hidden !important;position:fixed;}
 }
 @media (max-width: 414px){
 	html, body, untitled__shutters {height:  736px!important; min-height: 736px!important;  overflow: hidden !important;position:fixed;}
